@@ -1,0 +1,13 @@
+body {
+  background-color: burlywood;
+}
+/* this is some of the custom css for simple styling */
+
+img {
+  mix-blend-mode: multiply;
+}
+/* I really like this mix blend mode, i can definetly seeing myself using it more in the future. It blends the background of the image to the background of the body */
+
+footer {
+  align-content: space-evenly;
+}
